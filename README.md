@@ -71,6 +71,7 @@
 如果有三方数据，可以再加入消费者收入，教育，爱好，使用京东的RFM数据等等。
 
 **聚类结果：**
+
 ![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/10_clustering_result.png)
 
 由于数据限制，本次客群聚类的结果并不是很好，但仍可以看出Cluster 1 的客群是主力客群，更容易产生购买行为。其性别为男，年龄组5/6，会员等级为7，城市等级为4。京东可以target在这类人群，以提高订单量。
