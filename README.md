@@ -29,7 +29,7 @@
 + 可以选择怎样的图表？
   - 柱状图
   - 环形图
-![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/6_funnel analysis.png)
+![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/6_funnel_analysis.png)
 ![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/User_Analysis.png)
 
 ## 影响用户购买行为的因素 – 用户维度
@@ -92,7 +92,7 @@
 
 + **变量选择**：
   - Y: 订单金额
-	- X: 会员级别，城市级别，性别，年龄组，历史购买金额/浏览/加购/关注/评论数据
+  - X: 会员级别，城市级别，性别，年龄组，历史购买金额/浏览/加购/关注/评论数据
        如果有三方数据，可以再加入消费者收入，教育，爱好，使用京东的RFM数据等等。
 
 实际研究过程可以选择某个产品类别来进行，用线性回归预测消费者可能下单的金额。
