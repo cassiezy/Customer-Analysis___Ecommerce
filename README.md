@@ -3,8 +3,8 @@
 1. Understand the data fields
 ![image] (https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/2_Field.png)
 
-What：用户的购买趋势是怎样的？
-·选择什么变量？
+# What：用户的购买趋势是怎样的？
+#·选择什么变量？
   ·购买行为：type
   ·行为时间：action_date
 ·呈现怎样的数据关系？
