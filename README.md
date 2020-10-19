@@ -1,6 +1,7 @@
 # Customer Analysis JD.com
 
 ## Understand the data fields
+Separate all fields into 3 groups: **User, Purchase Behavior, Product/Merchant**
 ![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/2_Field.png)
 
 # What：用户的购买趋势是怎样的？
