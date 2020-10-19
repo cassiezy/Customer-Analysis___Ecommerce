@@ -1,6 +1,6 @@
 # Customer Analysis JD.com
 
-1. Understand the data fields
+## Understand the data fields
 ![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/2_Field.png)
 
 # What：用户的购买趋势是怎样的？
