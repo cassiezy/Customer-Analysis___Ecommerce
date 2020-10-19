@@ -30,7 +30,7 @@ Separate all fields into 3 groups: **User, Purchase Behavior, Product/Merchant**
 + 可以选择怎样的图表？
   - 柱状图
   - 环形图
-![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/6_funnel_analysis.png)
+![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/Readme/6_funnel%20analysis.png)
 ![image](https://github.com/cassiezy/Customer_Analysis_JD.com/blob/master/User_Analysis.png)
 
 ## 影响用户购买行为的因素 – 用户维度
